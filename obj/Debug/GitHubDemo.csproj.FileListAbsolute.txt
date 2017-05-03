@@ -1,0 +1,9 @@
+c:\users\amitar\documents\visual studio 2015\Projects\GitHubDemo\GitHubDemo\bin\Debug\GitHubDemo.exe.config
+c:\users\amitar\documents\visual studio 2015\Projects\GitHubDemo\GitHubDemo\bin\Debug\GitHubDemo.exe
+c:\users\amitar\documents\visual studio 2015\Projects\GitHubDemo\GitHubDemo\bin\Debug\GitHubDemo.pdb
+c:\users\amitar\documents\visual studio 2015\Projects\GitHubDemo\GitHubDemo\bin\Debug\Octokit.dll
+c:\users\amitar\documents\visual studio 2015\Projects\GitHubDemo\GitHubDemo\bin\Debug\Octokit.pdb
+c:\users\amitar\documents\visual studio 2015\Projects\GitHubDemo\GitHubDemo\bin\Debug\Octokit.xml
+c:\users\amitar\documents\visual studio 2015\Projects\GitHubDemo\GitHubDemo\obj\Debug\GitHubDemo.exe
+c:\users\amitar\documents\visual studio 2015\Projects\GitHubDemo\GitHubDemo\obj\Debug\GitHubDemo.pdb
+c:\users\amitar\documents\visual studio 2015\Projects\GitHubDemo\GitHubDemo\obj\Debug\GitHubDemo.csprojResolveAssemblyReference.cache
